@@ -6,7 +6,7 @@ El proyecto consiste en una aplicación front-end enfocada en la presentación v
 
 Características principales:
 
-Sitio web de catálogo (sin back-end)
+Sitio web de catálogo
 
 Diseño responsivo para dispositivos móviles y escritorio
 
